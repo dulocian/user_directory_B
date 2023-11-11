@@ -18,13 +18,13 @@ To run this website locally, follow these steps:
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/dulocian/user_directory_B
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd your-repository
+    cd user_directory_B
     ```
 
 3. **Start the Web Server:**
